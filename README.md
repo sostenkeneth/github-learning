@@ -17,6 +17,9 @@ This repository documents my journey of learning Git and GitHub from the beginni
 - ✅ Created first repository
 - ✅ Learned what Git is
 - ✅ Learned what GitHub is
+## Practice Branch
+
+This line exists only in the practice branch.
 - ✅ Learned what a repository is
 - ✅ Made my first commit
 
